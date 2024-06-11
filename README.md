@@ -13,13 +13,13 @@ Option to output successful login attempts to a specified file.
 
 ## Parameters
 
-**UserListPath (optional):** Path to a file containing a list of usernames.
-**Password (optional):** A single password to test against all usernames.
-**PasswordFile (optional):** Path to a file containing a list of passwords.
-**TargetDomain (optional):** The target domain for the password spray.
-**UseUserAsPass (optional):** Use usernames as passwords.
-**MinDelay (optional):** Minimum delay in seconds between password attempts.
-**MaxDelay (optional):** Maximum delay in seconds between password attempts.
+**UserListPath (optional):** Path to a file containing a list of usernames.\n
+**Password (optional):** A single password to test against all usernames.\n
+**PasswordFile (optional):** Path to a file containing a list of passwords.\n
+**TargetDomain (optional):** The target domain for the password spray.\n
+**UseUserAsPass (optional):** Use usernames as passwords.\n
+**MinDelay (optional):** Minimum delay in seconds between password attempts.\n
+**MaxDelay (optional):** Maximum delay in seconds between password attempts.\n
 **OutFile (optional):** Path to a file where successful login attempts will be logged.
 
 ## Example Usage
